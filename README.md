@@ -1,3 +1,3 @@
-# fan-in pattern
+# fan-out pattern
 
-![alt text](https://github.com/fgmaia/fanin/blob/master/fanin.png?raw=true)
+![alt text](https://github.com/fgmaia/fanin/blob/master/fanout.png?raw=true)
